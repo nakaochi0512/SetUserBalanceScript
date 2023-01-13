@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="shift-jis"?>
+<root>
+    <ConfigList>
+        <ServerCommandExePath>C:\Program Files\PaperCut MF\server\bin\win\server-command.exe</ServerCommandExePath>
+        <AccountList>マルチ個人アカウント1,マルチ個人アカウント2,マルチ個人アカウント3</AccountList>
+    </ConfigList>
+    <GroupList>
+        <Group>
+            <Label>研究員</Label>
+            <Point>0,10,20</Point>
+        </Group>
+        <Group>
+            <Label>客員教員</Label>
+            <Point>,20,50</Point>
+        </Group>
+        <Group>
+            <Label>非常勤講師</Label>
+            <Point>20,,50</Point>
+        </Group>
+        <Group>
+            <Label>リセット</Label>
+            <Point>0,10,</Point>
+        </Group>
+    </GroupList>
+</root>
